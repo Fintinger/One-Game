@@ -4,4 +4,4 @@
 
 ![](https://gitee.com/fintinger/figure-bed/raw/master//images/20210601172204.jpeg)
 
-[Demo](https://www.fintinger.site/extra/oneGame/)
+[Demo](https://one-game.vercel.app/)
